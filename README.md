@@ -37,8 +37,7 @@
 **台灣性別平等教育承辦人殘缺版skill**  
 又名：**gemini spark可能會加速承辦人陣亡skill**
 
-![Uploading 圖片.png…]()
-
+<img width="1431" height="1422" alt="圖片" src="https://github.com/user-attachments/assets/f81d80e2-4406-441d-a42e-3eee9a575e5d" />
 
 Spark上傳完整資料遇到檔案數限制，因此改成7檔技能搭配外部Notebook。這版將法源移入Notebook，省去原版的本地程式檢索工具。
 
