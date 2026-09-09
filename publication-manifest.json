@@ -1,0 +1,37 @@
+{
+  "source_zip_sha256": "9b043fae2c26c122606c0d8448a0296f527633fcb0076e6157d7439a92e6c739",
+  "testbook_sha256": "b81a4bef9624d9cd3378ecb75a6ad0724e7791a5b35b5c68dcab317e6abb7f10",
+  "original_renamed_files": [
+    "SKILL.md",
+    "README.md",
+    "PACKAGE-FILES.json"
+  ],
+  "notebook_sources": 48,
+  "downloads": [
+    {
+      "file": "notebook-sources-CGE-NB-1.3.0.1.zip",
+      "bytes": 1160568,
+      "files": 48,
+      "sha256": "0e607e7d75873e99a40530840f9bd287ca34443e4577f8c914233f19fa210531"
+    },
+    {
+      "file": "original-pdf-to-md-only-v1.3.0.zip",
+      "bytes": 1224372,
+      "files": 156,
+      "sha256": "fcc948770a644bb0a25a8ca4e1121490b170ba430210ae98b4d4452d266cc180"
+    },
+    {
+      "file": "taiwan-gender-equity-education-officer-v1.3.0.zip",
+      "bytes": 1682543,
+      "files": 156,
+      "sha256": "03da6900e83bd80b4d376713e772df24707b825165659af8b4ff9da8dfbc8ce6"
+    },
+    {
+      "file": "taiwan-gender-equity-spark-incomplete-v1.3.0.1.zip",
+      "bytes": 106048,
+      "files": 7,
+      "sha256": "5cf6306a0aa84c21e131b323477bc1adff21a3eb1d2efb001195c4e1ded5222f"
+    }
+  ],
+  "second_evaluation_sha256": "7ac1d45f2c6aa5a6d630009bfbdb2b9bf5adeaa4c583b6a7c2901acbaaa43873"
+}

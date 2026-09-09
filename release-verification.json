@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "original_unchanged_files": 153,
+  "original_builtin_validation": "passed",
+  "notebook_skill_format_validation": "passed",
+  "notebook_identical_sources": 48,
+  "original_test_attachments_byte_identical": true,
+  "second_evaluation_scores": 33,
+  "second_evaluation_missing_scores": 3,
+  "publication_document_links": "passed",
+  "downloads": [
+    {
+      "file": "notebook-sources-CGE-NB-1.3.0.1.zip",
+      "files": 48,
+      "sha256": "0e607e7d75873e99a40530840f9bd287ca34443e4577f8c914233f19fa210531"
+    },
+    {
+      "file": "original-pdf-to-md-only-v1.3.0.zip",
+      "files": 156,
+      "sha256": "fcc948770a644bb0a25a8ca4e1121490b170ba430210ae98b4d4452d266cc180"
+    },
+    {
+      "file": "taiwan-gender-equity-education-officer-v1.3.0.zip",
+      "files": 156,
+      "sha256": "03da6900e83bd80b4d376713e772df24707b825165659af8b4ff9da8dfbc8ce6"
+    },
+    {
+      "file": "taiwan-gender-equity-spark-incomplete-v1.3.0.1.zip",
+      "files": 7,
+      "sha256": "5cf6306a0aa84c21e131b323477bc1adff21a3eb1d2efb001195c4e1ded5222f"
+    }
+  ],
+  "cloud_renamed_skill_upload_tested": false,
+  "model_answers_rerun": false
+}
